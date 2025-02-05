@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Exercicios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F66C4CC-E9DF-49D9-B8A7-3C68946174AF}|Console\\Console.csproj|d:\\exercicios\\console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F66C4CC-E9DF-49D9-B8A7-3C68946174AF}|Console\\Console.csproj|solutionrelative:console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C678605-4FBA-4836-AFE4-ACB7C999643E}|Exercicios\\Exercicios.csproj|d:\\exercicios\\exercicios\\patterns\\abstract factory\\abstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C678605-4FBA-4836-AFE4-ACB7C999643E}|Exercicios\\Exercicios.csproj|solutionrelative:exercicios\\patterns\\abstract factory\\abstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C678605-4FBA-4836-AFE4-ACB7C999643E}|Exercicios\\Exercicios.csproj|d:\\exercicios\\exercicios\\exercicio 4\\solucao\\solucao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C678605-4FBA-4836-AFE4-ACB7C999643E}|Exercicios\\Exercicios.csproj|solutionrelative:exercicios\\exercicio 4\\solucao\\solucao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C678605-4FBA-4836-AFE4-ACB7C999643E}|Exercicios\\Exercicios.csproj|d:\\exercicios\\exercicios\\exercicio 4\\violacao\\violacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C678605-4FBA-4836-AFE4-ACB7C999643E}|Exercicios\\Exercicios.csproj|solutionrelative:exercicios\\exercicio 4\\violacao\\violacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C678605-4FBA-4836-AFE4-ACB7C999643E}|Exercicios\\Exercicios.csproj|d:\\exercicios\\exercicios\\exercicio 3\\solucao\\solucao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C678605-4FBA-4836-AFE4-ACB7C999643E}|Exercicios\\Exercicios.csproj|solutionrelative:exercicios\\exercicio 3\\solucao\\solucao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C678605-4FBA-4836-AFE4-ACB7C999643E}|Exercicios\\Exercicios.csproj|d:\\exercicios\\exercicios\\exercicio 3\\violacao\\lsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C678605-4FBA-4836-AFE4-ACB7C999643E}|Exercicios\\Exercicios.csproj|solutionrelative:exercicios\\exercicio 3\\violacao\\lsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C678605-4FBA-4836-AFE4-ACB7C999643E}|Exercicios\\Exercicios.csproj|d:\\exercicios\\exercicios\\exercicio 2\\violacao\\ocp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C678605-4FBA-4836-AFE4-ACB7C999643E}|Exercicios\\Exercicios.csproj|solutionrelative:exercicios\\exercicio 2\\violacao\\ocp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C678605-4FBA-4836-AFE4-ACB7C999643E}|Exercicios\\Exercicios.csproj|d:\\exercicios\\exercicios\\exercicio 2\\solucao\\solucao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C678605-4FBA-4836-AFE4-ACB7C999643E}|Exercicios\\Exercicios.csproj|solutionrelative:exercicios\\exercicio 2\\solucao\\solucao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C678605-4FBA-4836-AFE4-ACB7C999643E}|Exercicios\\Exercicios.csproj|d:\\exercicios\\exercicios\\exercicio 1\\ajuste\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C678605-4FBA-4836-AFE4-ACB7C999643E}|Exercicios\\Exercicios.csproj|solutionrelative:exercicios\\exercicio 1\\ajuste\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C678605-4FBA-4836-AFE4-ACB7C999643E}|Exercicios\\Exercicios.csproj|d:\\exercicios\\exercicios\\exercicio 1\\violacao\\violacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C678605-4FBA-4836-AFE4-ACB7C999643E}|Exercicios\\Exercicios.csproj|solutionrelative:exercicios\\exercicio 1\\violacao\\violacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C678605-4FBA-4836-AFE4-ACB7C999643E}|Exercicios\\Exercicios.csproj|d:\\exercicios\\exercicios\\exercicio 5\\violacao\\violacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C678605-4FBA-4836-AFE4-ACB7C999643E}|Exercicios\\Exercicios.csproj|solutionrelative:exercicios\\exercicio 5\\violacao\\violacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C678605-4FBA-4836-AFE4-ACB7C999643E}|Exercicios\\Exercicios.csproj|d:\\exercicios\\exercicios\\exercicio 5\\solucao\\solucao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C678605-4FBA-4836-AFE4-ACB7C999643E}|Exercicios\\Exercicios.csproj|solutionrelative:exercicios\\exercicio 5\\solucao\\solucao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Solucao.cs",
+              "DocumentMoniker": "D:\\Exercicios\\Exercicios\\Exercicio 4\\Solucao\\Solucao.cs",
+              "RelativeDocumentMoniker": "Exercicios\\Exercicio 4\\Solucao\\Solucao.cs",
+              "ToolTip": "D:\\Exercicios\\Exercicios\\Exercicio 4\\Solucao\\Solucao.cs*",
+              "RelativeToolTip": "Exercicios\\Exercicio 4\\Solucao\\Solucao.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T19:22:56.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Violacao.cs",
+              "DocumentMoniker": "D:\\Exercicios\\Exercicios\\Exercicio 4\\Violacao\\Violacao.cs",
+              "RelativeDocumentMoniker": "Exercicios\\Exercicio 4\\Violacao\\Violacao.cs",
+              "ToolTip": "D:\\Exercicios\\Exercicios\\Exercicio 4\\Violacao\\Violacao.cs*",
+              "RelativeToolTip": "Exercicios\\Exercicio 4\\Violacao\\Violacao.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T19:21:58.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Solucao.cs",
+              "DocumentMoniker": "D:\\Exercicios\\Exercicios\\Exercicio 3\\Solucao\\Solucao.cs",
+              "RelativeDocumentMoniker": "Exercicios\\Exercicio 3\\Solucao\\Solucao.cs",
+              "ToolTip": "D:\\Exercicios\\Exercicios\\Exercicio 3\\Solucao\\Solucao.cs*",
+              "RelativeToolTip": "Exercicios\\Exercicio 3\\Solucao\\Solucao.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T19:13:32.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LSP.cs",
+              "DocumentMoniker": "D:\\Exercicios\\Exercicios\\Exercicio 3\\Violacao\\LSP.cs",
+              "RelativeDocumentMoniker": "Exercicios\\Exercicio 3\\Violacao\\LSP.cs",
+              "ToolTip": "D:\\Exercicios\\Exercicios\\Exercicio 3\\Violacao\\LSP.cs",
+              "RelativeToolTip": "Exercicios\\Exercicio 3\\Violacao\\LSP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T19:12:51.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Solucao.cs",
+              "DocumentMoniker": "D:\\Exercicios\\Exercicios\\Exercicio 2\\Solucao\\Solucao.cs",
+              "RelativeDocumentMoniker": "Exercicios\\Exercicio 2\\Solucao\\Solucao.cs",
+              "ToolTip": "D:\\Exercicios\\Exercicios\\Exercicio 2\\Solucao\\Solucao.cs",
+              "RelativeToolTip": "Exercicios\\Exercicio 2\\Solucao\\Solucao.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T18:48:31.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OCP.cs",
+              "DocumentMoniker": "D:\\Exercicios\\Exercicios\\Exercicio 2\\Violacao\\OCP.cs",
+              "RelativeDocumentMoniker": "Exercicios\\Exercicio 2\\Violacao\\OCP.cs",
+              "ToolTip": "D:\\Exercicios\\Exercicios\\Exercicio 2\\Violacao\\OCP.cs",
+              "RelativeToolTip": "Exercicios\\Exercicio 2\\Violacao\\OCP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T18:47:56.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Exercicios\\Console\\Program.cs",
+              "RelativeDocumentMoniker": "Console\\Program.cs",
+              "ToolTip": "D:\\Exercicios\\Console\\Program.cs",
+              "RelativeToolTip": "Console\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T13:12:47.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Abstract.cs",
+              "DocumentMoniker": "D:\\Exercicios\\Exercicios\\Patterns\\Abstract Factory\\Abstract.cs",
+              "RelativeDocumentMoniker": "Exercicios\\Patterns\\Abstract Factory\\Abstract.cs",
+              "ToolTip": "D:\\Exercicios\\Exercicios\\Patterns\\Abstract Factory\\Abstract.cs*",
+              "RelativeToolTip": "Exercicios\\Patterns\\Abstract Factory\\Abstract.cs*",
+              "ViewState": "AgIAAFIAAAAAAAAAAAA8wFkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T12:32:51.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Solucao.cs",
+              "DocumentMoniker": "D:\\Exercicios\\Exercicios\\Exercicio 5\\Solucao\\Solucao.cs",
+              "RelativeDocumentMoniker": "Exercicios\\Exercicio 5\\Solucao\\Solucao.cs",
+              "ToolTip": "D:\\Exercicios\\Exercicios\\Exercicio 5\\Solucao\\Solucao.cs",
+              "RelativeToolTip": "Exercicios\\Exercicio 5\\Solucao\\Solucao.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T12:18:31.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Violacao.cs",
+              "DocumentMoniker": "D:\\Exercicios\\Exercicios\\Exercicio 5\\Violacao\\Violacao.cs",
+              "RelativeDocumentMoniker": "Exercicios\\Exercicio 5\\Violacao\\Violacao.cs",
+              "ToolTip": "D:\\Exercicios\\Exercicios\\Exercicio 5\\Violacao\\Violacao.cs",
+              "RelativeToolTip": "Exercicios\\Exercicio 5\\Violacao\\Violacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T12:17:26.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Violacao.cs",
+              "DocumentMoniker": "D:\\Exercicios\\Exercicios\\Exercicio 1\\Violacao\\Violacao.cs",
+              "RelativeDocumentMoniker": "Exercicios\\Exercicio 1\\Violacao\\Violacao.cs",
+              "ToolTip": "D:\\Exercicios\\Exercicios\\Exercicio 1\\Violacao\\Violacao.cs",
+              "RelativeToolTip": "Exercicios\\Exercicio 1\\Violacao\\Violacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T11:57:51.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Exercicios\\Exercicios\\Exercicio 1\\Ajuste\\Class1.cs",
+              "RelativeDocumentMoniker": "Exercicios\\Exercicio 1\\Ajuste\\Class1.cs",
+              "ToolTip": "D:\\Exercicios\\Exercicios\\Exercicio 1\\Ajuste\\Class1.cs",
+              "RelativeToolTip": "Exercicios\\Exercicio 1\\Ajuste\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T23:52:47.652Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
